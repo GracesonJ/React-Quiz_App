@@ -5,18 +5,18 @@ export const QuizQuestions = [
         answer: 4
     },
     {
-        question: "What does CSS stand for?",
-        options:["Central Style Sheets", "Cascading Style Sheets", "Cascading Simple Sheets", "Cars SUVs Sailboats"],
-        answer: 2
+        question: "What is the correct command to create a new React project?",
+        options:["npm create-react-app", "npm create-react-app myProject", "npx create-react-app", "npx create-react-app myProject"],
+        answer: 4
     },
     {
-        question: "What does HTML stand for?",
-        options: ["Hypertext Markup Language", "Hypertext Markdown Language", "Hyperloop Machine Language", "Helicopters Terminals Motorboats Lamborginis"],
+        question: "What is the default port number in which the application run?",
+        options: ["3000", "8080", "4040", "2000"],
         answer: 1
     },
     {
-        question: "What year was JavaScript launched?",
-        options: ["1996", "1995", "1994", "none of the above"],
-        answer:2
+        question: "Which of the following is a way to handle data in React.js ?",
+        options: ["Services & Components", "State & Services", "State & Props", "none of the above"],
+        answer:3
     },
 ];

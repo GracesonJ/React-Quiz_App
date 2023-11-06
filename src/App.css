@@ -21,7 +21,7 @@ body{
   background-color: white;
   border-radius: 15px;
   box-shadow: 2px 2px 10px 1px rgb(102, 3, 102);
-  box-shadow: 2px 2px 10px 1px #333;  
+  box-shadow: 2px 2px 10px 1px #d720dd;  
   overflow: hidden;
   padding: 10px;
   position: relative;
@@ -31,7 +31,7 @@ body{
   color:rgb(199, 45, 240);
   font-size: 30px;
   font-weight: bold;
-  margin: 10px;
+  margin: 20px;
   text-align: center;  
   text-transform: uppercase;
 }
@@ -73,7 +73,7 @@ body{
   transition: 0.3s;
   margin: 5px;
   min-height: 30px;
-  background-color: rgb(168, 44, 168);
+  background-color: rgb(199, 45, 240);
 }
 
 .checked{
@@ -82,7 +82,7 @@ body{
   box-shadow: 3px 3px 4px 1px rgb(78, 69, 78);
 }
 .option-btn:hover{
-  background-color: rgb(212, 118, 212);
+  background-color: rgb(211, 77, 211);
   color:white;
 }
 #next-button{
@@ -92,7 +92,7 @@ body{
   background-color: rgb(199, 45, 240);
   color:rgb(30, 29, 31);
   border-radius: 5px;
-  box-shadow: 3px 3px 2px 1px rgb(151, 38, 117);
+  box-shadow: 3px 3px 2px 1px rgb(206, 39, 156);
   font-size: larger;
   font-weight: bold;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;

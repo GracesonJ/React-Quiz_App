@@ -55,7 +55,7 @@ function Quiz() {
                     )
                 })}                
             </div>
-            <input type="button" value="Next" id="next-button" onClick={changeQuestion}/>
+            <input type="button" value="Next" id="next-button"  onClick={changeQuestion}/>
             </>)}
         </div>
     </div>
