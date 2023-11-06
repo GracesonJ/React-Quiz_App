@@ -19,4 +19,9 @@ export const QuizQuestions = [
         options: ["Services & Components", "State & Services", "State & Props", "none of the above"],
         answer:3
     },
+    {
+        question: "Which of the following is must for the API in React.js?",
+        options: ["SetinitialComponent", "renderComponent", "render", "All of the above"],
+        answer: 2
+    }
 ];
