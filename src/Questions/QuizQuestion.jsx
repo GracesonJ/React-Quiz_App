@@ -46,7 +46,7 @@ export const QuizQuestions = [
     },
     {
         question: "Which of the following is true regarding Babel?",
-        options: ["Transpilar", "Compiler", "Both of the Above", "None of the Abouv"],
+        options: ["Transpilar", "Compiler", "Both of the Above", "None of the Above"],
         answer: 3
     }
 ];
