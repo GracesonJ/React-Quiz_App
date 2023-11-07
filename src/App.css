@@ -114,10 +114,11 @@ body{
   font-weight: bold;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   transition: 0.2s;
-  width:120px;
+  width:150px;
   position: absolute;
   bottom: 50px;
   text-decoration: none;
+  text-align: center;
 }
 
 #next-button:active{
